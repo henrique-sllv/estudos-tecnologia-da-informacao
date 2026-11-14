@@ -1,14 +1,24 @@
 body{
-    background-color: #141313;
-    color:#e6edf3;
+    background-color: #f8f5f0;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+main{
+    background-color: #0f0f0f;
+    margin: 30px ;
+    padding: 10px;
+    border-radius:20px ;
+    box-shadow: 1px 2px 3px ;
+}
+
+
 a{
-    color:#58a6ff;
+    color:#00438f;
 }
 
 h1, h2, h3, h4, h5, h6{
-    color: #7a80ff;
+    color: #03096e;
 }
 
 ul,li{
