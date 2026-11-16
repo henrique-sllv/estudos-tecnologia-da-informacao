@@ -5,14 +5,19 @@ body{
 
 main{
     background-color: aliceblue;
-    width: 700px;
+    width: 500px;
     padding: 10px;
-    margin: auto;
+    margin:auto;
     border-radius: 20px;
     box-shadow: 15px 15px 15px rgb(37, 37, 37) ;
 }
 
 h1{
+    margin: 50px;
+    border-radius: 10px;
+    padding:10px;
+    background-color:black ;
+    color: aliceblue;
     text-align: center;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.521);
 }
