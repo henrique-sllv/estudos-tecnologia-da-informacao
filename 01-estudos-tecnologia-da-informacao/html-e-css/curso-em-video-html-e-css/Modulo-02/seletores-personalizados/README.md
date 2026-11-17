@@ -7,7 +7,7 @@
 ## 🎯 O que foi praticado nesta etapa
 
 **id:** diferenciando uma propriedade das demais.
-
+**class:** modificando vários itens usando classes
 ---
 
 ## 🛠️ Tecnologias Utilizadas

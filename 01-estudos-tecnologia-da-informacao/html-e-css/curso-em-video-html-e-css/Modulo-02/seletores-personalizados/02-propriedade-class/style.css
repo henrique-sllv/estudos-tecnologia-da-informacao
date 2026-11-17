@@ -1,0 +1,32 @@
+
+/*sem classes*/
+h1{
+    color: blue;
+    background-color: black;
+}
+
+h2{
+    color: blue;
+    background-color: black;
+}
+
+p{
+        color: blue;
+    background-color: black;
+}
+
+/*com classes*/
+.principais{
+    color: brown;
+    background-color: aqua;
+}
+
+.secundarios{
+        color: brown;
+    background-color: aqua;
+}
+
+.textos{
+            color: brown;
+    background-color: aqua;
+}
