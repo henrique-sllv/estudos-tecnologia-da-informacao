@@ -9,6 +9,7 @@
 - **`id` (`#`):** Diferenciando um elemento único dos demais na página.
 - **`class` (`.`):** Modificando vários elementos ao mesmo tempo através de classes reutilizáveis.
 - **Pseudo-classes (`:`):** Alterando o estado e o comportamento dos elementos (como no uso do `:hover`).
+- **Pseudo-elementos (`::`):** Criando e estilizando elementos virtuais (como `::before` e `::after`) sem alterar o código HTML.
 
 ---
 
