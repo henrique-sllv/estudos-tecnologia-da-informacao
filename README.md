@@ -75,7 +75,7 @@ curso-sem-modulos/
 ## 🛠️ Tecnologias e Ferramentas
 
 - **HTML5:** Estruturação semântica de páginas.
-- **CSS3:** Estilização, layout e responsividade.
+- **CSS3:** Estilização.
 - **Git & GitHub:** Controle de versão e organização de código.
 - **VS Code:** Editor de código principal.
 ---

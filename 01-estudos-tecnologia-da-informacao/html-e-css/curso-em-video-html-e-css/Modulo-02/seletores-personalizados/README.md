@@ -16,5 +16,5 @@
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5** (Estruturação e semântica)
-- **CSS3** (Estilização e seletores)
+- **CSS3** (Estilização)
 - **Visual Studio Code** (Editor de código)
