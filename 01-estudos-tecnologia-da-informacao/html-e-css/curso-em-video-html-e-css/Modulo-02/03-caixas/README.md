@@ -8,7 +8,8 @@
 
 * **box-level e inline-level:** entendendo o funcionamento e as diferenças dos modelos de caixas no CSS.
 * **shorthands:** abreviações para propriedades
-* **Grouping Tags:** agrupamento de tags com semântica.
+* **grouping Tags:** agrupamento de tags com semântica.
+* **box-shadow:** sombreamento
 ---
 
 ## 🛠️ Tecnologias Utilizadas
