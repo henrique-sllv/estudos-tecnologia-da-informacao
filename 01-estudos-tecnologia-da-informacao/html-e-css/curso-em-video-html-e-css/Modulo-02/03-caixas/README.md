@@ -10,6 +10,7 @@
 * **shorthands:** abreviações para propriedades
 * **grouping Tags:** agrupamento de tags com semântica.
 * **box-shadow:** sombreamento
+* **border-radius:** arredondando cantos
 ---
 
 ## 🛠️ Tecnologias Utilizadas
