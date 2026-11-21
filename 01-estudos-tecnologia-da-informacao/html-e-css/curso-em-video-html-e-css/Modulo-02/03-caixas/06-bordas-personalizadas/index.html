@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Bordas personalizadas</title>
+    <style>
+
+    div#div1{
+        background-color: rgb(180, 180, 180);
+        border: 10px solid transparent;
+        padding: 10px;
+        text-align: center;
+        border-radius: 7px;
+        border-image-source: url('assets/border.png');
+        border-image-slice: 27;
+        border-image-repeat: repeat;
+        margin-bottom: 10px;
+    }
+
+    div#div2{
+        background-color: rgb(180, 180, 180);
+        border: 10px solid transparent;
+        padding: 10px;
+        text-align: center;
+        border-radius: 7px;
+        /* shorthands*/
+        border-image: url('assets/border.png') 27 repeat;
+    }
+    </style>
+</head>
+<body>
+    <div id="div1">
+        <h1>borda personalizada</h1>
+        <p>site de teste</p>
+    </div>
+
+    <div id="div2">
+        <h1>borda personalizada</h1>
+        <p>site de teste</p>
+    </div>
+</body>
+</html>
