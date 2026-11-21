@@ -1,0 +1,80 @@
+body{
+    background-color:#8A8A8A;
+    margin: 0px;
+}
+
+/* cabeçário */
+header{
+    background-color: #DBDBDB;
+    margin: 0px;
+    text-align: center;
+    padding: 0px;
+}
+div#titulo{
+    background-color:#000000;
+    color: aliceblue;
+    margin: 0px;
+}
+
+h1{
+    margin: 0px;
+}
+
+p{
+    margin: 0px;
+}
+
+nav{
+    padding: 10px;
+}
+
+nav > a{
+    color: red;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+nav > a:hover{
+    color: black;
+    text-decoration: underline;
+    border: 2px solid black;
+    padding: 5px;
+    font-weight: 700;
+}
+
+/*corpo*/
+
+main{
+    background-color:#B3B3B3;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+section{
+    background-color: aliceblue;
+    padding: 0px 10px 5px 10px;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+article{
+   border: 5px solid black;
+   padding: 10px;
+   border-radius: 10px;
+}
+
+aside{
+    background-color: #8A8A8A;
+    padding: 5px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+/*rodapé*/
+
+footer{
+    background-color: #DBDBDB;
+    border: 5px solid white;
+    padding: 10px;
+
+}

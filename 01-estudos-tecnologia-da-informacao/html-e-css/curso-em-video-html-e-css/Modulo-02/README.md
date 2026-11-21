@@ -15,8 +15,8 @@ Nesta segunda etapa, o foco é se aprofundar um pouco mais no mundo do css, abre
 - [x] **Psicologia das cores:** Como as cores influenciam a percepção, as emoções e a experiência do usuário.
 - [x] **Paleta de cores:** Escolha, combinação e aplicação harmoniosa de cores nos projetos.
 - [x] **Tipografia:** Famílias de fontes, tamanhos, pesos e legibilidade para textos na web.
-- [ ] **Pseudo-classes:** Estilização de elementos baseada em estados.
-- [ ] **Pseudo-elementos:** Estilização de partes específicas de um elemento.
+- [x] **Pseudo-classes:** Estilização de elementos baseada em estados.
+- [x] **Pseudo-elementos:** Estilização de partes específicas de um elemento.
 - [ ] **Modelo de caixa (Box Model):** O funcionamento de margens, bordas, preenchimentos e largura dos elementos.
 - [ ] **Variáveis em CSS:** Criação e reutilização de valores personalizados com propriedades customizadas.
 ---
