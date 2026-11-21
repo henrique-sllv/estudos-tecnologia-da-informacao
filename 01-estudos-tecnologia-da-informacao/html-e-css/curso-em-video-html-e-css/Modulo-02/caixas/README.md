@@ -7,7 +7,7 @@
 ## 🎯 O que foi praticado nesta etapa
 
 * **box-level e inline-level:** entendendo o funcionamento e as diferenças dos modelos de caixas no CSS.
-
+* **shorthands:** abreviações para propriedades 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
